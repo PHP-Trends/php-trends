@@ -31,3 +31,5 @@ https://github.com/PHP-Trends/fig-standards
 
 #PHP-Bench : The PHP Benchmark (setting the record straight)
 http://www.phpbench.com/
+https://github.com/andrewmriley/PHP-Speed-Tests
+http://www.phpbench.com/
